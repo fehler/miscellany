@@ -5,7 +5,7 @@ Apple’s Business Goal
 
 —[@fehler](https://twitter.com/fehler)
 
-<small>A photograph of the original document is available at the wonderful [DigiBarn Computer Museum](http://www.digibarn.com/collections/business-docs/apple-values/DSC06513.JPG).</small>
+A photograph of the original document is available at the wonderful [DigiBarn Computer Museum](http://www.digibarn.com/collections/business-docs/apple-values/DSC06513.JPG).
 
 
 - - -
@@ -45,21 +45,10 @@ Achieving our goal is important to us. But we’re equally concerned with the *w
 **Good Management** — The attitudes of managers toward their people are of primary importance. Employees should be able to trust the motives and integrity of their supervisors. It is the responsibility of management to create a productive environment where Apple values flourish.
 
 
-<small>© 1987 Apple Computer, Inc.  Apple and the Apple logo are registered trademarks of Apple Computer, Inc.</small>
+© 1987 Apple Computer, Inc.  Apple and the Apple logo are registered trademarks of Apple Computer, Inc.
 
 
 - - -
 
 
 —[@fehler](https://twitter.com/fehler)
-
-
-
-<!--
-
-+ Identify the date this was published.
-+ Link to the image file.
-+ Provide a second version, *emphasis mine*. Hmmm… too didactic.
-+ Post to r/apple.
-
--->
