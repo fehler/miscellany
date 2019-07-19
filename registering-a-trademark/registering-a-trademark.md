@@ -5,7 +5,7 @@ Registering a Trademark
 
 The following is what I learned through the process of registering a trademark for ‘Mr Murphy’ (my consultancy business that is focused on developing digital and printed learning materials).
 
-—[Christopher Murphy][13]
+—[Christopher Murphy][00]
 
 
 
@@ -135,3 +135,5 @@ The author of numerous books, he is currently hard at work on his eighth, ‘Des
 [12]: https://www.gov.uk/how-to-register-a-trade-mark/apply
 
 [13]: https://twitter.com/fehler
+
+[00]: https://github.com/fehler/miscellany/blob/master/registering-a-trademark/registering-a-trademark.md#about-the-author
