@@ -116,9 +116,9 @@ The author of numerous books, he is currently hard at work on his eighth, ‘Des
 
 [03]: https://www.gov.uk/government/publications/searching-for-similar-trade-mark-goodsservices-in-other-classes
 
-[04]: https://www.gov.uk/search-for-trade mark
+[04]: https://www.gov.uk/search-for-trademark
 
-[05]: https://trade marks.ipo.gov.uk/ipo-tmtext
+[05]: https://trademarks.ipo.gov.uk/ipo-tmtext
 
 [06]: https://www.ipo.gov.uk/t-tmj.htm
 
@@ -136,4 +136,4 @@ The author of numerous books, he is currently hard at work on his eighth, ‘Des
 
 [13]: https://twitter.com/fehler
 
-[00]: https://github.com/fehler/miscellany/blob/master/registering-a-trade mark/registering-a-trade mark.md#about-the-author
+[00]: https://github.com/fehler/miscellany/blob/master/registering-a-trademark/registering-a-trademark.md#about-the-author
