@@ -43,7 +43,7 @@ Searching for a trademark [by word, phrase and / or image][05] allows you to ref
 
 The Intellectual Property Office (IPO) also has an online [Trade Marks Journal][06] with a link to the latest version. Here is the list from [19 July, 2019][07]. (The IPO website is a lot less user-friendly than the GOV.UK website.)
 
-Because trademarks are listed in classes, you might find that someone is using your name – e.g. ‘Mr Murphy’ – but they’ve registered the trademark for a different class, perhaps Class 21 (cooking utensils), because they create bespoke kitchen knives.
+Because trademarks are listed in classes, you might find that someone is using the trademark you want to register – e.g. ‘Mr Murphy’ – but they’ve registered the trademark for a different class, perhaps Class 21 (cooking utensils), because they create bespoke kitchen knives.
 
 As long as no one has registered your trademark in the class or classes you want, you should be able to trademark it.
 
@@ -82,7 +82,7 @@ Do your research up-front. **You cannot change your trade mark once you’ve app
 
 When you’re ready, click on [apply now][12] (a large green button) and complete the various forms, of which there are a number.
 
-Once you application is submitted (and paid for), you'll receive an email from the Intellectual Property Office with a PDF copy of your trademark application. The IPO will normally process your response within 14 days.
+Once you application is submitted (and paid for), you’ll receive an email from the Intellectual Property Office with a PDF copy of your trademark application. The IPO will normally process your response within 14 days.
 
 
 
