@@ -5,11 +5,9 @@ Registering a Trade Mark
 
 The following is what I learned through the process of registering a trade mark for ‘Mr Murphy’ (my consultancy business that is focused on developing digital and printed learning materials).
 
-I wrote this for a client to summarise the process for them, but I hope others might find it useful, too.
+I wrote this for a client to summarise the process for them, but I hope others might find it useful, too. (Estimated reading time: 5 minutes.)
 
 —[Christopher Murphy][00]
-
-<small>Estimated reading time: 5 minutes.</small>
 
 
 
