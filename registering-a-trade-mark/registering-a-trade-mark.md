@@ -136,4 +136,4 @@ The author of numerous books, he is currently hard at work on his eighth, ‘Des
 
 [13]: https://twitter.com/fehler
 
-[00]: https://github.com/fehler/miscellany/blob/master/registering-a-trademark/registering-a-trademark.md#about-the-author
+[00]: https://github.com/fehler/miscellany/blob/master/registering-a-trade-mark/registering-a-trade-mark.md#about-the-author
