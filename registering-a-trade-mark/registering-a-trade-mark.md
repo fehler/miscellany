@@ -5,27 +5,31 @@ Registering a Trade Mark
 
 The following is what I learned through the process of registering a trade mark for ‘Mr Murphy’ (my consultancy business that is focused on developing digital and printed learning materials).
 
+I wrote this for a client to summarise the process for them, but I hope others might find it useful, too.
+
 —[Christopher Murphy][00]
+
+<small>Estimated reading time: 5 minutes.</small>
 
 
 
 Trade Mark Basics
 -----------------
 
-The process to register a trade mark takes about four months if no-one objects and a registered trade mark lasts for 10 years.
+The process to register a trade mark takes about four months if there are no objections and a registered trade mark lasts for 10 years.
 
 **Registering a trade mark in the UK only protects your brand in the UK. There are different processes for registering [EU and international trade marks][01].**
 
 GOV.UK maintain a list of trade marks that you can search before you register your own trade mark.
 
-trade marks are listed by classes. Each class contains a list of pre-approved terms that cover all of the goods or services included in that class.
+Trade marks are listed by classes. Each class contains a list of pre-approved terms that cover all of the goods or services included in that class.
 
 + Goods are listed in classes 1 to 34.
 + Services are listed in classes 35 to 45.
 
 GOV.UK maintains a list of classes at [trade mark cross search list][02]. On this page you’ll gain an understanding of how different goods and services are classified. There is guidance provided on [this page][03].
 
-For example, trade mark Class 41 is used if you are registering a trade mark for **education, training, and sports and entertainment services**. This might include:
+For example, Trade Mark Class 41 is used if you are registering a trade mark for **education, training, and sports and entertainment services**. This might include:
 
 + education services;
 + conducting educational workshops in the field of business; and
@@ -37,15 +41,15 @@ You can search for existing trade marks at GOV.UK’s [search for a trade mark][
 + owner
 + keyword, phrase or image
 
-The first two are useful if you want to find out more about an existing trade mark. The third is useful if you want to search for existing trade marks that use the same trade mark as the one you are hoping to trade mark.
+The first two are useful if you want to find out more about an existing trade mark. The third is useful if you want to search for existing trade marks that use the same trade mark as the one you that you intend to trade mark. (More on that in a moment.)
 
 Searching for a trade mark [by word, phrase and / or image][05] allows you to refine your search by selecting class(es) and searching within specific date ranges.
 
-The Intellectual Property Office (IPO) also has an online [Trade Marks Journal][06] with a link to the latest version. Here is the list from [19 July, 2019][07]. (The IPO website is a lot less user-friendly than the GOV.UK website.)
+The Intellectual Property Office (IPO) also has an online [Trade Marks Journal][06] with a link to the latest version. Here is the list from [19 July, 2019][07]. (The IPO website is a lot less user-friendly than the GOV.UK website. A testament to the fantastic work the GOV.UK team have been doing.)
 
 Because trade marks are listed in classes, you might find that someone is using the trade mark you want to register – e.g. ‘Mr Murphy’ – but they’ve registered the trade mark for a different class, perhaps Class 21 (cooking utensils), because they create bespoke kitchen knives.
 
-As long as no one has registered your trade mark in the class or classes you want, you should be able to trade mark it.
+As long as no one has registered your trade mark in the class or classes you want, you should be able to trade mark it. You just have to complete the forms and pay the fees.
 
 
 
@@ -54,10 +58,12 @@ Trade Mark Fees
 
 As part of the trade mark process, you can either:
 
-1. pay up front; or
-2. pay half by submitting a UK Right Start trade mark Application.
+1. pay in full up-front; or
+2. pay half by submitting a UK Right Start Trade Mark Application.
 
-A ‘normal’ trade mark application will cost £170 for one class. A Right Start trade mark application will cost £200 for one class. The benefit of the Right Start application is that you get a report, letting you know if the trade mark you want to register is available. If it’s not available, you don’t pay the balance (saving you money). If it is available you pay the balance.
+A ‘normal’ Trade Mark Application will cost £170 for one class. A Right Start Trade Mark Application will cost £200 for one class.
+
+The benefit of the Right Start application is that you get a report, letting you know if the trade mark you want to register is available. If it’s not available, you don’t pay the balance (saving you money). If it is available you pay the balance.
 
 It costs £50 for each additional class. So, for example, if I want to register ‘Mr Murphy’ in the following classes a Right Start application will cost £300:
 
@@ -82,7 +88,11 @@ Do your research up-front. **You cannot change your trade mark once you’ve app
 
 When you’re ready, click on [apply now][12] (a large green button) and complete the various forms, of which there are a number.
 
-Once you application is submitted (and paid for), you’ll receive an email from the Intellectual Property Office with a PDF copy of your trade mark application. The IPO will normally process your response within 14 days.
+Once you application is submitted (and paid for), you’ll receive an email from the Intellectual Property Office with a PDF copy of your trade mark application.
+
+The IPO will normally process your response within 5-15 working days and send you an examination report, telling you if your trade mark has been accepted or if the IPO has objections to its acceptance.
+
+If you’ve submitted a Right Start application and your trade mark has been accepted, you will need to pay the balance of the fees within 14 days of the date of the examination report.
 
 
 
