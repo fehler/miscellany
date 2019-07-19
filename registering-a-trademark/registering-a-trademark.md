@@ -65,6 +65,8 @@ It costs £50 for each additional class. So, for example, if I want to register 
 + Class 16: Educational books, etc..
 + Class 41: Education services, etc..
 
+£200 for the Right Start application (which includes one class) and £100 for the two additional classes (£50 each).
+
 There is [an overview of the fees][08] at the IPO website.
 
 
