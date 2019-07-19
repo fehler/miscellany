@@ -57,9 +57,7 @@ As part of the trademark process, you can either:
 1. pay up front; or
 2. pay half by submitting a UK Right Start Trademark Application.
 
-A ‘normal’ trademark application will cost £170 for one class. A Right Start trademark application will cost £200 for one class. The benefit of the Right Start application is that you get a report, letting you know if the trademark you want to register is available.
-
-If it’s not available, you don’t pay the balance (saving you money). If it is available you pay the balance.
+A ‘normal’ trademark application will cost £170 for one class. A Right Start trademark application will cost £200 for one class. The benefit of the Right Start application is that you get a report, letting you know if the trademark you want to register is available. If it’s not available, you don’t pay the balance (saving you money). If it is available you pay the balance.
 
 It costs £50 for each additional class. So, for example, if I want to register ‘Mr Murphy’ in the following classes a Right Start application will cost £300:
 
