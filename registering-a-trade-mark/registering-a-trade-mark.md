@@ -1,11 +1,13 @@
 Registering a Trade Mark
 ========================
 
+*Estimated reading time: 5 minutes.*
+
 **This advice is for registering trade marks in the UK. I am not a lawyer, so you may wish to take legal advice.**
 
 The following is what I learned through the process of registering a trade mark for ‘Mr Murphy’ (my consultancy business that is focused on developing digital and printed learning materials).
 
-I wrote this for a client to summarise the process for them, but I hope others might find it useful, too. (Estimated reading time: 5 minutes.)
+I wrote this for a client to summarise the process for them, but I hope others might find it useful, too.
 
 —[Christopher Murphy][00]
 
