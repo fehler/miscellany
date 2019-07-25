@@ -109,13 +109,17 @@ About the Author
 
 ### Christopher Murphy
 
-A designer, writer and speaker based in Belfast, [Christopher][13] mentors purpose-driven businesses, helping them to launch and thrive. He encourages small businesses to think big and he enables big businesses to think small.
+A designer, writer and speaker based in Belfast, [Christopher][02] mentors purpose-driven businesses, helping them to launch and thrive. He encourages small businesses to think big and he enables big businesses to think small.
 
 As a design strategist he has worked with companies, large and small, to help drive innovation, drawing on his 25+ years of experience working with clients including: Adobe, EA and the BBC.
 
 The author of numerous books, he is currently hard at work on his eighth, ‘Designing Delightful Experiences’, for Smashing Magazine and ninth, ‘Building Beautiful UIs’, for Adobe. Both are accompanied by a wealth of digital resources, and are drawn from Christopher’s 15+ years of experience as a design educator.
 
+[Follow Christopher on Twitter.][03]
+
 
 <!-- Links -->
 
 [01]: https://github.com/fehler/miscellany/blob/master/get-started-with-nfc/get-started-with-nfc.md#about-the-author
+[02]: https://mrmurphy.com “Mr Murphy · Strategist”
+[03]: https://twitter.com/fehler
