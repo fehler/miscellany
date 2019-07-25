@@ -121,5 +121,5 @@ The author of numerous books, he is currently hard at work on his eighth, ‘Des
 <!-- Links -->
 
 [01]: https://github.com/fehler/miscellany/blob/master/get-started-with-nfc/get-started-with-nfc.md#about-the-author
-[02]: https://mrmurphy.com “Mr Murphy · Strategist”
+[02]: https://mrmurphy.com "Mr Murphy · Strategist"
 [03]: https://twitter.com/fehler
