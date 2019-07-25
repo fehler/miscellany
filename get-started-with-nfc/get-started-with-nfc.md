@@ -1,7 +1,7 @@
 Get Started With NFC
 ====================
 
-*Estimated reading time: 4 minutes.*
+*Estimated reading time: 5 minutes.*
 
 **This content is a work-in-progress to include in my 2019-20 teaching at Belfast School of Art. I’m new to Near Field Communication and I’m sharing what I’ve learned so far here. (I am by no means an expert.)**
 
